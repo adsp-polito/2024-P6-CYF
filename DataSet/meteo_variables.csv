@@ -1,0 +1,26 @@
+Code,Parameter,Units
+date,date,dd/mm/yr
+st,soil temperature at 50 cm depth,ºC
+mt,mean temperature,ºC
+rh,relative humidity,%
+max st,maximum soil temperature,ºC
+max stT,maximum soil temperature time,h:min
+max t,maximum temperature,ºC
+max tT,maximum temperature time,h:min
+max rh,maximum relative humidity,%
+max rhT,maximum relative humidity time,h:min
+max ws,maximum wind speed,m/s
+max wsT,maximum wind speed time,h:min
+min st,minimum soil temperature,ºC
+min stT,minimum soil temperature time,h:min
+min t,minimum temperature,ºC
+min tT,minimum temperature time,h:min
+min rh,minimum relative humidity,%
+min rhT,minimum relative humidity time,h:min
+ws,wind speed,m/s
+wsmag,wind speed magnitude,m/s
+wdir,direction of the wind,degrees
+wdir sd,wind direction standard deviation,degrees
+pl,pluviometry,mm
+srad,daily global solar radiation,Mj/m2
+evap,evapotranspiration,mm
