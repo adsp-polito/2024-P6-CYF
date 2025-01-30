@@ -128,9 +128,11 @@ Evaluate models with:
 
 - **Best Model**: Random Forest with Grid Search (Reduced Features).
 - **Performance Highlights**:
-  - Fresh Ear Yield MAE: X.XX (example value).
-  - Dry Ear Yield MAE: Y.YY (example value).
-<br/>
+  - Fresh Ear Yield MAE: 2.87 
+  - Dry Ear Yield MAE: 1.84   
+  - Fresh Ear Yield MAPE: 12.21%
+  - Dry Ear Yield MAPE: 13.57%
+  <br/>
 
 ## Contributors
 
