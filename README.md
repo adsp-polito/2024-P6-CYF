@@ -86,8 +86,23 @@ Evaluate models with:
 ## Visualizations
 
 1. **Feature Correlations**: Heatmaps of relationships between features and yields.
+   <br/>
+    ![5](https://github.com/user-attachments/assets/2ed0165a-a987-44e2-8549-9ebe5c32ce92)
+
+<br/>
+
 2. **Model Performance**: Bar charts comparing error metrics.
+   <br/>
+   ![1](https://github.com/user-attachments/assets/7cebff78-c9da-4904-b5b0-f78f2ba9ca77)
+    ![2](https://github.com/user-attachments/assets/73384d10-2e0b-486a-ad70-3ad5c1e61b0e)
+    ![3](https://github.com/user-attachments/assets/1bba02fd-171c-41e4-9c77-3d2bd30cd3c5)
+    ![4](https://github.com/user-attachments/assets/00a5ff0d-9757-4243-82e0-dc18cc6f2a4e)
+   <br/>
+   <br/>
+   
 3. **Prediction Accuracy**: Scatterplots of actual vs. predicted values.
+   <br/>
+   ![6](https://github.com/user-attachments/assets/e1404e21-dcc8-4eb7-85fd-c4994acba565)
 
 <br/>
 
